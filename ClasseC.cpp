@@ -15,4 +15,8 @@ class classeC{
         void MC2(){
             cout << "MC2" << endl;
         }
+
+        void MC3(){
+            cout << "MC3" << endl;
+        }
 };
