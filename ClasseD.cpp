@@ -9,10 +9,14 @@ class classeD{
     
     public:
         void MD1(){
-            cout << "MC1" << endl;
+            cout << "MD1" << endl;
         }
 
         void MD2(){
-            cout << "MC2" << endl;
+            cout << "MD2" << endl;
+        }
+
+        void MD3(){
+            cout << "MD3" << endl;
         }
 };
