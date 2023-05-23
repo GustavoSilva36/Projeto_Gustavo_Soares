@@ -19,4 +19,8 @@ class classeD{
         void MD3(){
             cout << "MD3" << endl;
         }
+    
+        void MD4(){
+            cout << "MD4" << endl;
+        }
 };
